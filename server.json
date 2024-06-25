@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-06-12T20:49:05.643Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-06-12T20:49:05.643Z"
+    },
+    {
+      "id": 3,
+      "description": "curso",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1850,
+      "createdAt": "2024-06-12T20:49:05.643Z"
+    },
+    {
+      "description": "desenvolver aplicativo",
+      "price": 10000,
+      "category": "emprego",
+      "type": "income",
+      "createdAt": "2024-06-21T17:13:13.167Z",
+      "id": 4
+    },
+    {
+      "description": "desenvolver aplicativo",
+      "price": 10000,
+      "category": "emprego",
+      "type": "income",
+      "createdAt": "2024-06-21T17:13:16.013Z",
+      "id": 5
+    },
+    {
+      "description": "suco detox",
+      "price": 200,
+      "category": "alimentação",
+      "type": "income",
+      "createdAt": "2024-06-21T17:23:50.250Z",
+      "id": 6
+    },
+    {
+      "description": "iorgute",
+      "price": 4,
+      "category": "alimentação",
+      "type": "income",
+      "createdAt": "2024-06-21T20:42:42.784Z",
+      "id": 7
+    },
+    {
+      "description": "suco detox",
+      "price": 5,
+      "category": "alimentação",
+      "type": "income",
+      "createdAt": "2024-06-21T20:52:48.257Z",
+      "id": 8
+    },
+    {
+      "description": "suco detox",
+      "price": 4,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2024-06-21T20:57:29.885Z",
+      "id": 9
+    },
+    {
+      "description": "pastel",
+      "price": 12,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2024-06-24T22:22:02.980Z",
+      "id": 10
+    },
+    {
+      "description": "pastel",
+      "price": 15,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2024-06-25T14:23:03.375Z",
+      "id": 11
+    }
+  ]
+}
